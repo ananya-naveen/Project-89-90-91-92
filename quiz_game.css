@@ -1,0 +1,64 @@
+#background{
+    background-image: url("Background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#player1_login{
+    background-color: white;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 20px;
+    padding-bottom: 20px;
+    padding-top: 2px;
+}
+
+#player2_login{
+    background-color: white;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 20px;
+    padding-bottom: 20px;
+    padding-top: 2px;
+}
+
+#header{
+    color: violet;
+}
+
+#login_header{
+    color: rgba(0, 0, 0, 0.699);
+}
+
+#username{
+    color: rgba(0, 0, 0, 0.699);
+}
+
+#login_button{
+background-color: gray;
+color: white;
+width: 80px;
+height: 30px;
+}
+
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid violet;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+#number{
+    color: white;
+}
+
+#sendButton{
+    background-color: violet;
+color: white;
+width: 80px;
+height: 30px;
+}
+
